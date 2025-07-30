@@ -1,4 +1,4 @@
-# Database Course Documentation
+# Database Report
 ### By Shahad Al Harthy
 
 ## 1. Flat File Systems vs. Relational Databases
