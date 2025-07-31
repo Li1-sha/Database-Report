@@ -5,11 +5,12 @@
 
 | Aspect           | Flat File Systems                          | Relational Databases                         |
 |------------------|--------------------------------------------|----------------------------------------------|
-| **Structure**     | Simple files like CSV, no built-in structure | Tables with defined schema (rows & columns)  |
-| **Data Redundancy**| High redundancy, repeated data             | Low redundancy through normalization         |
+| **Structure**     | No inbuilt structure Simple files e.g. CSV
+ | Tables with defined schema (rows & columns)  |
+| **Data Redundancy**| Redundancy of information: redundancy, duplicate information        | Low redundancy via normalization         |
 | **Relationships** | No inherent relationships                  | Supports foreign keys and joins              |
 | **Example Usage** | Log files, spreadsheets                    | Student records, financial systems           |
-| **Drawbacks**     | Difficult to maintain, not scalable        | More complex setup, needs DBMS               |
+| **Drawbacks**     | Difficult to maintain, unscalable        | More complex setup, needs DBMS               |
 
 ![Flat File vs Relational data schema](images/Flat-filevsRelational.png)
 
@@ -24,7 +25,7 @@
 -  **Integrity** – Enforces data accuracy and consistency
 -  **Backup** – Supports automatic and manual backups
 -  **Redundancy** – Minimizes duplication through normalization
--  **Concurrency** – Multiple users can access data simultaneously
+-  **Concurrency** – Multiple users are allowed to access data at once
 -  **Data Sharing** – Enables controlled data sharing between users/applications
 
 ---
@@ -32,19 +33,19 @@
 ##  3. Roles in a Database System
 
 ### • System Analyst
-Gathers business requirements and defines what the database system should do.
+Find out business needs and decides upon what the database system is to perform.
 
 ### • Database Designer
-Creates the conceptual and logical design of the database schema.
+Generates the theoretical and logical structure of database structure.
 
 ### • Database Developer
-Implements the schema, queries, and procedures for interacting with the database.
+Applies the schema, queries and procedures of how to access the database.
 
 ### • Database Administrator (DBA)
 Manages database performance, backups, security, and recovery.
 
 ### • Application Developer
-Builds front-end or back-end applications that connect to the database.
+Creates the front-end or back-end programs linking them to the database.
 
 ### • BI Developer
 Develops dashboards, reports, and tools for business data analysis.
@@ -71,7 +72,7 @@ Develops dashboards, reports, and tools for business data analysis.
 ## 5. Cloud Storage and Databases
 
 ### What is Cloud Storage?
-Cloud storage is a service that allows data to be saved on remote servers and accessed over the internet.
+Cloud storage is a service provided where the data will be stored on remote servers that can be accessed through the internet.
 
 ### How It Supports Databases:
 - Stores backups
@@ -87,7 +88,7 @@ Cloud storage is a service that allows data to be saved on remote servers and ac
 ### Disadvantages
 - Data privacy/security concerns
 - Vendor lock-in
-- Dependency on internet connectivity
+- Internet dependency
 ---
 ### References
 [https://www.integrate.io/blog/database-schema-examples/]
