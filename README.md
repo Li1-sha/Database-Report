@@ -17,7 +17,7 @@
 
 ## 2. DBMS Advantages – Mind Map
 
-**Mind Map:** 
+**Mind Map:** ![DBMS Mindmap](images/dataMindMap.png)
 
 **Key Advantages:**
 -  **Security** – Controls user access and protects data
