@@ -11,7 +11,7 @@
 | **Example Usage** | Log files, spreadsheets                    | Student records, financial systems           |
 | **Drawbacks**     | Difficult to maintain, not scalable        | More complex setup, needs DBMS               |
 
-*Visual suggestion:* Add a side-by-side diagram showing a CSV vs. a relational table.
+![Flat File vs Relational data schema](images/Flat-file-vs-Relational.png)
 
 ---
 
