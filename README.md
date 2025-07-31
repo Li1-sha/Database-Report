@@ -5,8 +5,7 @@
 
 | Aspect           | Flat File Systems                          | Relational Databases                         |
 |------------------|--------------------------------------------|----------------------------------------------|
-| **Structure**     | No inbuilt structure Simple files e.g. CSV
- | Tables with defined schema (rows & columns)  |
+| **Structure**     | No inbuilt structure Simple files e.g. CSV| Tables with defined schema (rows & columns)  |
 | **Data Redundancy**| Redundancy of information: redundancy, duplicate information        | Low redundancy via normalization         |
 | **Relationships** | No inherent relationships                  | Supports foreign keys and joins              |
 | **Example Usage** | Log files, spreadsheets                    | Student records, financial systems           |
