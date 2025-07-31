@@ -66,8 +66,6 @@ Develops dashboards, reports, and tools for business data analysis.
 | Distributed  | Data distributed across nodes/locations      | Google Bigtable     |
 | Cloud        | Managed database service in the cloud       | Amazon RDS, Azure SQL|
 
-*Visual suggestion:* A diagram showing the difference in architecture.
-
 ---
 
 ## 5. Cloud Storage and Databases
@@ -90,4 +88,9 @@ Cloud storage is a service that allows data to be saved on remote servers and ac
 - Data privacy/security concerns
 - Vendor lock-in
 - Dependency on internet connectivity
-
+---
+### References
+[https://www.integrate.io/blog/database-schema-examples/]
+[https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-what-is-database-management-system]
+[https://app.mindmup.com/map/_free/2025/07/bb7556906e0011f0a1fc1359daa10ffa]
+[https://www.geeksforgeeks.org/dbms/dbms/]
