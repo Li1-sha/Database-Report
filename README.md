@@ -11,7 +11,7 @@
 | **Example Usage** | Log files, spreadsheets                    | Student records, financial systems           |
 | **Drawbacks**     | Difficult to maintain, not scalable        | More complex setup, needs DBMS               |
 
-![Flat File vs Relational data schema](images/Flat-file vs Relational.png)
+![Flat File vs Relational data schema](images/Flat-filevsRelational.png)
 
 ---
 
